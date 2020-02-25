@@ -7,7 +7,7 @@
         ""
     ],
     "modules": {
-        
+        "punyshort-lib": "1.0"
     },
     "namespaces": {}
 }
